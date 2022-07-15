@@ -1,6 +1,6 @@
 {
-  "name": "pfsc-moose",
-  "version": "0.22.7-dev",
+  "name": "@alpinemath/pfsc-moose",
+  "version": "0.22.7",
   "license": "Apache-2.0",
   "author" : "Steve Kieffer",
   "description": "Moose is a forest browser.",
